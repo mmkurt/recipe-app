@@ -1,4 +1,7 @@
 package mk.springmvc.recipe.domain;
 
-public class Difficulty {
+public enum Difficulty {
+
+    EASY, MODERATE, HARD
+
 }
